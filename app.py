@@ -1,5 +1,5 @@
 
-#this flask api code is hosted at https://salmon-policeman-fothu.pwskills.app:5000/result
+#this flask api code is hosted at https://flipkart-reviews-scraper-flask-api.onrender.com/result
 
 
 
